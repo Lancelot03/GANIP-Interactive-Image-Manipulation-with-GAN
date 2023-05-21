@@ -49,3 +49,6 @@ Evaluation and Refinement:
 2. Gather feedback from users and iterate on the system to improve its performance and user experience.
 
 It's important to note that the implementation details may vary depending on the specific generative model and programming framework you choose to work with. Popular frameworks like TensorFlow, PyTorch, or Keras provide tools and libraries for training generative models and implementing interactive interfaces. Consult the documentation and available tutorials for the chosen framework to understand the specific coding requirements.
+
+
+# I included the outline of the Variational Autoencoder in 
